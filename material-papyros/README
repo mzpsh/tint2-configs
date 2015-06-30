@@ -4,8 +4,10 @@
   INSTALLATION AND USAGE
 
  -Place menu.png and face.png to ~/.icons
-	face.png is for example only, you can make your own , maximum size is 26x26 pixels
+  face.png is for example only, you can make your own , maximum size is 26x26 pixels
+  
  -Place menu.desktop and user.desktop to ~/.local/share/applications/
-	if you're using google chrome instead chromium or you just using other menu, edit menu.desktop
+  if you're using google chrome instead chromium or you just using other menu, edit menu.desktop
+  
  -Run "tint2 -c taskbar" and "tint2 -c tray"
-	tray config is optimized for 2 tray app items, tweak width as needed.
+  tray config is optimized for 2 tray app items, tweak width as needed.
