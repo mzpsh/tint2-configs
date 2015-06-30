@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=User
+Exec=notify-send "Hi ^_^"
+Type=Application
+Icon=face
