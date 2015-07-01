@@ -17,8 +17,8 @@ border_color = #ffffff 0
 
 #-------------------------------------
 # Panel
-panel_items = CSL
-panel_size = 15% 40
+panel_items = CSFL
+panel_size = 19% 40
 panel_margin = 15 5
 panel_padding = 12 3 10
 panel_background_id = 1
@@ -131,7 +131,7 @@ tooltip_font = Roboto 12
 
 
 # Launcher
-launcher_padding = 2 4 2
+launcher_padding = 10 4 2
 launcher_background_id = 0
 launcher_icon_size = 26
 launcher_icon_asb = 100 0 0

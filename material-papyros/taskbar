@@ -30,7 +30,7 @@ border_color = #ffffff 16
 #-------------------------------------
 # Panel
 panel_items = LT
-panel_size = 83% 40
+panel_size = 78% 40
 panel_margin = 15 5
 panel_padding = 0 0 7
 panel_background_id = 0
